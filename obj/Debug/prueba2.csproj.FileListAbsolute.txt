@@ -1,0 +1,10 @@
+C:\Users\Daniel Marin\source\repos\prueba2\bin\Debug\prueba2.exe.config
+C:\Users\Daniel Marin\source\repos\prueba2\bin\Debug\prueba2.exe
+C:\Users\Daniel Marin\source\repos\prueba2\bin\Debug\prueba2.pdb
+C:\Users\Daniel Marin\source\repos\prueba2\obj\Debug\prueba2.csprojAssemblyReference.cache
+C:\Users\Daniel Marin\source\repos\prueba2\obj\Debug\prueba2.Form1.resources
+C:\Users\Daniel Marin\source\repos\prueba2\obj\Debug\prueba2.Properties.Resources.resources
+C:\Users\Daniel Marin\source\repos\prueba2\obj\Debug\prueba2.csproj.GenerateResource.cache
+C:\Users\Daniel Marin\source\repos\prueba2\obj\Debug\prueba2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Marin\source\repos\prueba2\obj\Debug\prueba2.exe
+C:\Users\Daniel Marin\source\repos\prueba2\obj\Debug\prueba2.pdb
